@@ -1,6 +1,6 @@
 # Music Discord Bot
 
-A feature-rich music bot for Discord.The bot allows users to enjoy music playback in their Discord servers seamlessly.
+An open source feature-rich music bot for Discord.The bot allows users to enjoy music playback in their Discord servers seamlessly.
 
 ---
 
